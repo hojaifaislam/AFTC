@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.144" height="18.144" viewBox="0 0 18.144 18.144">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3906" data-name="Path 3906" d="M0-6.378A9.072,9.072,0,0,0,9.072,2.694h0a9.072,9.072,0,0,0,9.072-9.072h0A9.071,9.071,0,0,0,9.072-15.45h0A9.072,9.072,0,0,0,0-6.378" transform="translate(0 15.45)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_975" data-name="Rectangle 975" width="20.834" height="18.448" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" width="1" height="1" patternTransform="matrix(1, 0, 0, -1, 0, 36.896)" viewBox="0 0 20.834 18.448">
+      <image preserveAspectRatio="none" width="20.834" height="18.448" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAABDCAYAAAAYhMJsAAAABHNCSVQICAgIfAhkiAAAASlJREFUeJzt1bENwlAMAFEbhQYaRmAVChomYR0WYRkGYAGUjnQoFBAJhfr8JbjXpLR1SpyM0/4aRfrjedgs1+uIGKtmzuTj1t8vu8OqamAXmduqYTHGkJmreAXOsrnT9IgcYxwisizwomrQW86ePz+7OnCr0/CpdIeuYGDG90lodoNnO0y7Ybqo+WTmn2eLEzEp3aXViWjxBjeZXR140vInV6pV4L9hYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYQaGGRhmYJiBYU9e8x3D7+2DJgAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="flag5" transform="translate(0 0)">
+    <g id="Group_1668" data-name="Group 1668" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <g id="Group_1667" data-name="Group 1667" transform="translate(19.489 18.144) rotate(180)">
+        <g id="Group_1666" data-name="Group 1666" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_974" data-name="Rectangle 974" width="20.834" height="18.448" fill="url(#pattern)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
